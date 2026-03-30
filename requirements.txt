@@ -1,4 +1,0 @@
-streamlit
-cohere
-pypdf
-qdrant-client
